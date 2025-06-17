@@ -28,7 +28,7 @@ A full-stack web application to help users track their daily water intake, view 
 
 ```bash
 https://github.com/abhishekmishra0409/Water_Intake_Tracker_MERN_Stack.git
-cd water-intake-tracker
+cd Water_Intake_Tracker_MERN_Stack
 ```
 
 ### 2. Backend Setup
@@ -41,6 +41,7 @@ npm install
 #### Create `.env` file
 
 ```env
+PORT=5000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_secret_key
 ```
@@ -87,9 +88,8 @@ npm run dev # or npm start if CRA
 
 ---
 
-
-
 ## 👨‍💻 Author
 
 **Abhishek Mishra**
 [LinkedIn](https://linkedin.com/in/abhishekmishra04) • [Portfolio](https://abhishekmishra-0409.web.app)
+📁 [GitHub Repository](https://github.com/abhishekmishra0409/Water_Intake_Tracker_MERN_Stack.git)
