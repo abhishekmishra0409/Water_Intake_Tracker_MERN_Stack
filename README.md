@@ -27,7 +27,7 @@ A full-stack web application to help users track their daily water intake, view 
 ### 1. Clone the repository
 
 ```bash
-https://github.com/your-username/water-intake-tracker.git
+https://github.com/abhishekmishra0409/Water_Intake_Tracker_MERN_Stack.git
 cd water-intake-tracker
 ```
 
